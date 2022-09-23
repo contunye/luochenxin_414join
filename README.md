@@ -1,14 +1,15 @@
 # luochenxin_414join
 <br> My nickname is xinge.
-<br> I am a magical species who comes from a world of zero and one.I have various hobbies.such as playing game,playing chess,writing novel,reading,listenning to music,studying,reading,painting and so on.I can cut videos,simple 3D modeling,basic operation of PS and have a brief learning of language.I don't like making friends unless I love her or him very very much.My dream is creating a new world.My motto is "be a continued trick kid,forever!"
-<br> jion the 414,I want to learn UI graphic design and plan the game.
-
-
-
-
+<br> introduce
+<br>I am a magical species who comes from a world of zero and one.I have various hobbies.such as playing game,playing chess,writing novel,reading,listenning to music,studying,reading,painting and so on.
+<br> ability
+<br>I can cut videos,simple 3D modeling,basic operation of PS and have a brief learning of language.I don't like making friends unless I love her or him very very much.My dream is creating a new world.My motto is "be a continued trick kid,forever!"
+<br>Why join there?
+<br>I really like this major. 2021 college entrance examination, my first choice is this major, but did not be admitted, so, I went to Southwest University to study material majors, but after less than a year, I chose to withdraw from school, re-college entrance examination, I think that I shouid firmly believe in their own initial choice, fortunately, this college entrance examination, I was admitted to the major, from the above can be seen, I really like this major.
+<br> What I want to learn from there?
+<br>I want to learn from a lot of gods and improve my design, code, and planning skills, of course, my favorite is planning, because it can directly frame a game world and turn it from virtual to reality.
 # interview
 BOLATU
-
 主题如下——
 
 孩子害怕黑暗，情有可原；人生真正的悲剧，是成人害怕光明。
@@ -45,6 +46,9 @@ BOLATU
 
 unity、基本的计算机语言、UI设计、关卡设计、剧情设计、游戏脚本编程语言
 
+签到功能—————
+玩家通过签到，可以获得信条，信条有助于帮其树立该世界的价值观，有利于通关
+
 具体功能实现的意义——————
 
 大会堂：满足玩家的社交需求。
@@ -54,5 +58,4 @@ unity、基本的计算机语言、UI设计、关卡设计、剧情设计、游�
 业务需求—————
 
 程序员、美工
-
 
