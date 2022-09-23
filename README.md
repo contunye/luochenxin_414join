@@ -1,11 +1,11 @@
 # nickname
 <br> My nickname is xinge,because I am very cool.
-# brief intriduce
+# brief introduce
 <br>I am a magical species who comes from a world of zero and one.I have various hobbies.such as playing game,playing chess,writing novel,listenning to music,studying,reading,painting and so on.I don't like making real friends unless I love her or him very very much.My dream is creating a vitual new world.My motto is "be a continued trick kid,forever!"
 # ability
 <br>I can cut videos,simple 3D modeling and painting,basic operation of PS and have a brief learning of language C.
 # Why join there?
-<br>I really like this major. 2021 college entrance examination, my first choice is this major, but did not be admitted, so, I went to Southwest University to study material majors, but after less than a year, I chose to withdraw from school, re-college entrance examination. I think that I shouid firmly believe in my own initial choice, fortunately, this college entrance examination, I was admitted to the major. From the above can be seen, I really like this major.
+<br>I really like this major. 2021 college entrance examination, my first choice is this major, but did not be admitted, so, I went to Southwest University to study material majors, but after less than a year, I chose to withdraw from school, re-college entrance examination. I think that I should firmly believe in my own initial choice, fortunately, this college entrance examination, I was admitted to the major. From the above can be seen, I really like this major.
 # What I want to learn from there?
 <br>I want to learn from a lot of gods and improve my design, code, and planning skills, of course, my favorite is planning, because it can directly frame a game world and turn it from virtual to reality.
 # photo
