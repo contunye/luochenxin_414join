@@ -8,7 +8,10 @@
 <br>I really like this major. 2021 college entrance examination, my first choice is this major, but did not be admitted, so, I went to Southwest University to study material majors, but after less than a year, I chose to withdraw from school, re-college entrance examination. I think that I shouid firmly believe in my own initial choice, fortunately, this college entrance examination, I was admitted to the major. From the above can be seen, I really like this major.
 # What I want to learn from there?
 <br>I want to learn from a lot of gods and improve my design, code, and planning skills, of course, my favorite is planning, because it can directly frame a game world and turn it from virtual to reality.
-# photoes
+# photo
+
+
+
 
 BOLATU
 主题如下——
