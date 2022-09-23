@@ -9,7 +9,7 @@
 # What I want to learn from there?
 <br>I want to learn from a lot of gods and improve my design, code, and planning skills, of course, my favorite is planning, because it can directly frame a game world and turn it from virtual to reality.
 # photo
-
+![image].(https://cn.bing.com/images/search?view=detailV2&ccid=ereVSG7Q&id=4B1A43C62AD81D68300577F95344B0FEE9F9110A&thid=OIP.ereVSG7Q1rMG1qGF-QM7bQHaD3&mediaurl=https%3a%2f%2fpic2.zhimg.com%2fv2-d9f335184e4d7f6e08d25b7c69f90ac9_r.jpg&exph=1280&expw=2453&q=%e9%ac%bc%e5%88%80%e5%a3%81%e7%ba%b8&simid=608014438687456592&FORM=IRPRST&ck=9A9E9512925B8B4A074C3037D5C497DB&selectedIndex=43)
 
 
 
